@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cafedeh Rizuki</string>
+    <string name="cafe_name_text">Cafedeh Luar Biasa</string>
+    <string name="food_menu_text">Menu - Makanan</string>
+
+    <string name="hint_empty">0</string>
+    <string name="drink_menu_text">Menu - Minuman</string>
+
+    <!-- Food Menu -->
+    <string name="menu_nasi_goreng">Nasi Goreng (Rp.15.000,-)</string>
+    <string name="menu_mie_goreng">Mie Goreng (Rp.12.000,-)</string>
+    <string name="menu_ayam_bakar">Ayam Bakar + Nasi (Rp.16.000,-)</string>
+    <string name="menu_ayam_goreng">Ayam Goreng + Nasi (Rp.15.000,-)</string>
+
+    <!-- Drink Menu -->
+    <string name="menu_teh">Teh Panas / Dingin (Rp.5.000,-)</string>
+    <string name="menu_air_mineral_250">Air Mineral (Rp.1.000,-)</string>
+    <string name="menu_air_mineral_600">Teh Panas / Dingin (Rp.3.000,-)</string>
+    <string name="menu_air_jeruk">Air Jeruk Panas / Dingin (Rp.6.000,-)</string>
+    <string name="calculate_text">Hitung</string>
+    <string name="food_total_text">Total Harga Makanan</string>
+    <string name="drink_total_text">Total Harga Minuman</string>
+    <string name="total_text">TOTAL</string>
+    <string name="pay_total">Total Bayar</string>
+    <string name="pay_text">Bayar</string>
+
+</resources>
